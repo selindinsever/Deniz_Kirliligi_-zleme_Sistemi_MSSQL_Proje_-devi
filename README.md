@@ -1,1 +1,1 @@
-# Deniz_Kirliligi_-zleme_Sistemi_MSSQL_Proje_Odevi
+# Deniz_Kirliligi_Izleme_Sistemi_MSSQL_Proje_Odevi
